@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TransferMoneyDaoTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-02T19:42:13" hostname="elias" time="0.05">
+  <properties/>
+  <testcase name="shouldCreateTransactionAccountCorrectly" classname="TransferMoneyDaoTests" time="0.05"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
