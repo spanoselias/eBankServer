@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TransferMoneyServiceTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-02T19:42:13" hostname="elias" time="0.022">
+<testsuite name="TransferMoneyServiceTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-02T20:07:25" hostname="elias" time="0.031">
   <properties/>
-  <testcase name="shouldCheckThatTransactionsAreGeneratedCorrectly" classname="TransferMoneyServiceTests" time="0.015"/>
-  <testcase name="shouldTransferMoneyBetweenTwoAccounts" classname="TransferMoneyServiceTests" time="0.007"/>
+  <testcase name="shouldCheckThatTransactionsAreGeneratedCorrectly" classname="TransferMoneyServiceTests" time="0.021"/>
+  <testcase name="shouldTransferMoneyBetweenTwoAccounts" classname="TransferMoneyServiceTests" time="0.009"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

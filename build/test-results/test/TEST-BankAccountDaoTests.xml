@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="BankAccountDaoTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-02T19:42:12" hostname="elias" time="0.563">
+<testsuite name="BankAccountDaoTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-02T20:07:24" hostname="elias" time="0.84">
   <properties/>
-  <testcase name="shouldCreateBankAccountCorrectly" classname="BankAccountDaoTests" time="0.554"/>
-  <testcase name="shouldCreateAndUpdateBankAccountCorrectly" classname="BankAccountDaoTests" time="0.008"/>
+  <testcase name="shouldCreateBankAccountCorrectly" classname="BankAccountDaoTests" time="0.828"/>
+  <testcase name="shouldCreateAndUpdateBankAccountCorrectly" classname="BankAccountDaoTests" time="0.011"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[[Test worker] INFO com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
 [Test worker] INFO com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
